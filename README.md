@@ -8,3 +8,5 @@ This is a program used for translating a given message to morse code
 
 ## ARDUINO
 The second program named as text_morse implements the same logic as the c program but can view the morse code using an led and buzzer.The text message to be converted can be entered in the serial monitor and the respective morse code will printed in the serial monitor and can be seen and heard from the output of the led and buzzer.
+
+The LED is connected to pin no 13 and the buzzer is connected to pin no 8.
