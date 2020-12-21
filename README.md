@@ -2,6 +2,7 @@
 This is a program used for translating a given message to morse code
 .There are two programs present 
 1) Morse.c file is a c program only used to convert a given message to morse code.It uses the actual delays between the characters to print the morse code of the given message.
+
 2)Text_morse which is implemented using an arduino
 
 ## ARDUINO
